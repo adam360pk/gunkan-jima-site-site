@@ -1,0 +1,143 @@
+
+nav {
+  text-align: right;
+}
+p{
+	font-family: Oswald;
+}
+p{
+	text-align: center;
+}
+h2, h4{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+table {
+  margin: auto;
+}
+ile-hashima-japon-3 {
+  display: block;
+  margin: auto;
+}
+.ile-hashima-japon-3 {
+  position: relative;
+  left: 800px;
+}
+.nagasaki {
+  position: relative;
+  left: 800px;
+}
+.gunkan-jima {
+  position: relative;
+  left: 809px;
+}
+.carte {
+  position: relative;
+  left: -101px;
+}
+.container {
+  position: relative;
+}
+.interieur {
+  position: relative;
+  left: 809px;
+}
+.hashima4 {
+  position: relative;
+  left: 809px;
+}
+.hashima3 {
+  position: relative;
+  left: -109px;
+}
+p{
+	font-family: cursive;
+}
+small{
+	font-family: cursive;
+}
+h1, h2, h3, small, p {
+    font-family: 'Pacifico', cursive;
+}
+
+body {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('chatgpt Image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, span, a, li, table, small {
+    color: white;
+}
+.table2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+.hashima5 {
+  display: block;
+  margin: auto;
+}
+button {
+  display: block;  
+  margin: 20px auto; 
+}
+.tableaux-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.tableau-block {
+  flex: 1;
+  min-width: 250px;
+}
+}
+h4, small {
+	text-align: center;
+}
+
+body {
+  margin: 0;
+  padding-top: 60px;
+  font-family: Arial, sans-serif;
+}
+.menu {
+  display: flex;
+  flex-direction: column; 
+  gap: 10px;              
+}
+.menu a {
+  display: block;
+  margin: 10px 0;
+  text-decoration: none;
+  color: white;
+  padding: -50px;
+  transition: background 0.3s, transform 0.3s;
+}
+
+.menu a:hover {
+  background: linear-gradient(90deg, #b0b0b0, #000000);
+  transform: translateX(5px); 
+  border-radius: 5px;
+}
+
+
+
+
+
+
+
+.title {
+    text-align: center; 
+    flex-grow: 1;
+    margin-left: 150px;
+{
